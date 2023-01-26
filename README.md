@@ -22,3 +22,4 @@ UI Animations
 Weak & unowned self for avoiding retain cycles / memory leaks
 Coding views programatically with UIKit
 MVC architecture 
+Collections 

@@ -1,6 +1,6 @@
 # iTask
 
-Modern minimalistic to-do application 
+Modern minimalistic to-do application for iOS devices
 Functionality:
 - Login, Sign in, Logout
 - Create task

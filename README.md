@@ -23,3 +23,6 @@ Weak & unowned self for avoiding retain cycles / memory leaks
 Coding views programatically with UIKit
 MVC architecture 
 Collections 
+
+
+(для запуска вручную скачайте требуваемые pods которые указаны в podfile, так же подключите к собственному firebase консоли)
